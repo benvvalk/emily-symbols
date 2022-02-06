@@ -3,7 +3,7 @@ import re
 
 # define your starters here
 #                standard  custom
-uniqueStarters = ["SKWH", "#SKWH"]
+uniqueStarters = ["STPR", "#STPR"]
 
 # define if attachment keys define where "space"s or "attachment"s lie
 attachmentMethod = "space"
